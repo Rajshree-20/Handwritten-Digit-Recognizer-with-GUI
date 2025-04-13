@@ -16,5 +16,9 @@ A simple yet powerful Handwritten Digit Recognition application using an Artific
 ---
 
 ## 🛠️ Project Structure
-
-├── digit_gui.py # Tkinter GUI code ├── train.ipynb # Jupyter notebook for training the model ├── Handwritten_digit_ann_model_best.h5 # Trained ANN model ├── sample_digits/ # Folder containing sample images for testing ├── requirements.txt # Dependencies └── README.md # Project documentation
+  - digit_gui.py # Tkinter GUI code
+  - train.ipynb # Jupyter notebook for training the model
+  - Handwritten_digit_ann_model_best.h5 # Trained ANN model
+  - sample_digits/ # Folder containing sample images for testing
+  - requirements.txt # Dependencies
+  - README.md # Project documentation
