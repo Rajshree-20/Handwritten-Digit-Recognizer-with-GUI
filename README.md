@@ -1,11 +1,5 @@
 # 🧠 Handwritten Digit Recognizer with GUI
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-2.x-red?logo=keras)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
 A simple yet powerful Handwritten Digit Recognition application using an Artificial Neural Network (ANN) built with TensorFlow and Keras. The app features a user-friendly interface created with Tkinter that allows users to upload an image and get real-time digit predictions.
 
 ---
@@ -116,37 +110,15 @@ pip install -r requirements.txt
 <!-- Add screenshot here after you upload -->
 ![App Preview](assets/cover.png)
 
-> ✨ Don't have a screenshot yet? Just run the app and take a screenshot, then upload it under `assets/cover.png`.
-
 ---
-
-## 🚀 Future Improvements
-
-- Add canvas to draw digits directly in the app
-- Use Convolutional Neural Network (CNN) for improved accuracy
-- Display prediction confidence
-- Add batch image testing feature
-- Polish GUI layout and make it cross-platform responsive
-
----
-
-## 🏷️ GitHub Tags
-
-```
-#python #machine-learning #digit-recognition #tkinter #keras #mnist #gui #deep-learning #ann #computer-vision
-```
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 🙌 Acknowledgements
 
 - [TensorFlow](https://www.tensorflow.org/)
 - [Keras](https://keras.io/)
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)
-- [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
+- [MNIST Dataset]
+
+
+
+
+#python #machine-learning #digit-recognition #tkinter #keras #mnist #gui #deep-learning #ann #computer-vision
