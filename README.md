@@ -116,9 +116,6 @@ pip install -r requirements.txt
 - [TensorFlow](https://www.tensorflow.org/)
 - [Keras](https://keras.io/)
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)
-- [MNIST Dataset]
-
-
-
+- MNIST Dataset
 
 #python #machine-learning #digit-recognition #tkinter #keras #mnist #gui #deep-learning #ann #computer-vision
